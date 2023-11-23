@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Florian - vrst</h1>
+<h1 align="center">Hi, I'm Florian 👋</h1>
 <h3 align="center">Un développeur web passionné par les nouvelles technologies</h3>
 
 - 👨‍💻 Retrouvez mon portfolio ici [https://florian-vrst.com/](https://florian-vrst.com/)
