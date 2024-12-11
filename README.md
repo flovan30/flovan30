@@ -41,6 +41,6 @@
 
 ##  My stats :
 <div style="display: flex; flex-direction: row; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flovan30&layout=compact&bg_color=00000000" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flovan30&layout=compact&bg_color=00000000&hide=php" width="400">
     <img src="https://github-readme-stats.vercel.app/api?username=flovan30&show_icons=true&bg_color=00000000"  width="400">
 </div>
